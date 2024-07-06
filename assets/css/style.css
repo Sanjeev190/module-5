@@ -14,3 +14,18 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+
+#button:hover{
+  background-color: red;
+  
+
+}  
+.position-adjustment{
+  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+  /*littele bit of hover effect from my side*/
