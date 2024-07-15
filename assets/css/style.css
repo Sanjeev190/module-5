@@ -28,4 +28,13 @@ body {
     text-align: center;
     
 }
+.bg-danger {
+  background-color: red !important;
+}
+.bg-warning {
+  background-color: yellow !important;
+}
+.bg-success {
+  background-color: white!important;
+}
   /*littele bit of hover effect from my side*/
